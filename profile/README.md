@@ -22,14 +22,14 @@ We build small, boring-but-correct tools to make AI visibility **measurable**.
 
 ## Tools
 
-| Repo | What it does | npm |
-|---|---|---|
-| [`ai-crawler-bots`](https://github.com/TryGeoSuite/ai-crawler-bots) | Curated AI bot user-agents + `robots.txt` verdict, edge vs origin block detection | [`@geosuite/ai-crawler-bots`](https://www.npmjs.com/package/@geosuite/ai-crawler-bots) |
-| [`schema-templates`](https://github.com/TryGeoSuite/schema-templates) | Copy-paste schema.org JSON-LD templates + offline validator | [`@geosuite/schema-templates`](https://www.npmjs.com/package/@geosuite/schema-templates) |
-| [`llms-txt-generator`](https://github.com/TryGeoSuite/llms-txt-generator) | `sitemap.xml` → `llms.txt` ([llmstxt.org](https://llmstxt.org/)) | [`@geosuite/llms-txt-generator`](https://www.npmjs.com/package/@geosuite/llms-txt-generator) |
-| [`sitemap-builder`](https://github.com/TryGeoSuite/sitemap-builder) | Crawl a site, emit a valid `sitemap.xml` | [`@geosuite/sitemap-builder`](https://www.npmjs.com/package/@geosuite/sitemap-builder) |
+Zero-runtime-dependency. Node 20+. MIT. **~1.3k installs/month** combined — counts update live.
 
-All zero-runtime-dependency. Node 20+. MIT.
+| Tool | What it does | Installs/mo | Stars |
+|---|---|:--:|:--:|
+| [**ai-crawler-bots**](https://github.com/TryGeoSuite/ai-crawler-bots) | Curated AI bot user-agents + `robots.txt` verdict, edge-vs-origin block detection | [![](https://img.shields.io/npm/dm/@geosuite/ai-crawler-bots?style=flat&label=%20&color=CB3837)](https://www.npmjs.com/package/@geosuite/ai-crawler-bots) | [![](https://img.shields.io/github/stars/TryGeoSuite/ai-crawler-bots?style=flat&label=%E2%98%85&color=444)](https://github.com/TryGeoSuite/ai-crawler-bots/stargazers) |
+| [**sitemap-builder**](https://github.com/TryGeoSuite/sitemap-builder) | Crawl a site, emit a valid `sitemap.xml` | [![](https://img.shields.io/npm/dm/@geosuite/sitemap-builder?style=flat&label=%20&color=CB3837)](https://www.npmjs.com/package/@geosuite/sitemap-builder) | [![](https://img.shields.io/github/stars/TryGeoSuite/sitemap-builder?style=flat&label=%E2%98%85&color=444)](https://github.com/TryGeoSuite/sitemap-builder/stargazers) |
+| [**llms-txt-generator**](https://github.com/TryGeoSuite/llms-txt-generator) | `sitemap.xml` → `llms.txt` ([llmstxt.org](https://llmstxt.org/)) | [![](https://img.shields.io/npm/dm/@geosuite/llms-txt-generator?style=flat&label=%20&color=CB3837)](https://www.npmjs.com/package/@geosuite/llms-txt-generator) | [![](https://img.shields.io/github/stars/TryGeoSuite/llms-txt-generator?style=flat&label=%E2%98%85&color=444)](https://github.com/TryGeoSuite/llms-txt-generator/stargazers) |
+| [**schema-templates**](https://github.com/TryGeoSuite/schema-templates) | Copy-paste schema.org JSON-LD templates + offline validator | [![](https://img.shields.io/npm/dm/@geosuite/schema-templates?style=flat&label=%20&color=CB3837)](https://www.npmjs.com/package/@geosuite/schema-templates) | [![](https://img.shields.io/github/stars/TryGeoSuite/schema-templates?style=flat&label=%E2%98%85&color=444)](https://github.com/TryGeoSuite/schema-templates/stargazers) |
 
 ## Principles
 
