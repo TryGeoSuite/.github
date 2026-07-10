@@ -22,7 +22,7 @@ We build small, boring-but-correct tools to make AI visibility **measurable**.
 
 ## Tools
 
-Zero-runtime-dependency. Node 20+. MIT. **~1.3k installs/month** combined — counts update live.
+Zero-runtime-dependency. Node 20+. MIT. **~2.4k installs/month** combined — counts update live.
 
 | Tool | What it does | Installs/mo | Stars |
 |---|---|:--:|:--:|
