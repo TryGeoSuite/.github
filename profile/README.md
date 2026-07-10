@@ -22,7 +22,7 @@ We build small, boring-but-correct tools to make AI visibility **measurable**.
 
 ## Tools
 
-Zero-runtime-dependency. Node 20+. MIT. **~2.4k installs/month** combined — counts update live.
+Zero-runtime-dependency. Node 20+. MIT. Combined across the four: ![installs/month](https://img.shields.io/endpoint?url=https%3A%2F%2Fprofile-download-stats.geosuite.workers.dev%2Fgeosuite%2Fmonthly&style=flat&color=CB3837) — a live count, no hardcoded number to go stale.
 
 | Tool | What it does | Installs/mo | Stars |
 |---|---|:--:|:--:|
